@@ -1,4 +1,14 @@
-<p align="left">This is TIA Legends, A group of Tech Enthuthiasts from all areas.<br><br>Here to Collaborate on fun projects and enjoy the journey together.<br><br>To More CODE</p>
+## TIA-Legends: Code, Collaborate, Conquer
+
+**TIA-Legends unites tech enthusiasts on a quest for knowledge and epic projects. We build, we learn, we win.**
+
+**Join the adventure:**
+
+* Fork a repo, craft your skills.
+* Spark discussions, ignite ideas.
+* Open source your passion, together we grow.
+
+**Let's write the next legend of tech.**
 
 ###
 
@@ -61,7 +71,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/TIA-Legends/TIA-Legends/output/snake.svg" alt="Snake animation" />
 
 ###
 
